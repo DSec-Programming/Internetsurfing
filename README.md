@@ -3,9 +3,7 @@
 ## Infos
 
 This is one of my first programs with UI. Entirely written in JavaFX.
-Automatically searches Browsers on your PC.
-Supported Browsers: Firefox, Chrome, Internet Explorer, Opera, Tor-Browsers
-"InternetSurfing.properties" file will be loaded/created under the home-directory of the current user. 
+Automatically searches Browsers on your PC. Supported Browsers are: Firefox, Chrome, Internet Explorer, Opera, Tor-Browsers. A Property-File "InternetSurfing.properties", which includes the browser paths, will be loaded/created from/in the home-directory of the current user. 
 
 Note: If the program doesn't find your Browser, please press 
       the button "search browser". Now you can manually search for it.
