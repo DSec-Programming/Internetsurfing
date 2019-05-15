@@ -17,3 +17,4 @@ This program will only run in Windows !
 - Switching between scenes
 - Changing Themes
 - Open up other programs out of Java
+- Loading/using fonts and sounds
